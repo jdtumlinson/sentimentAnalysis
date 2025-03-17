@@ -1,0 +1,12 @@
+(1) Training Set Accuracy: 100.0%     |     Examples Used: 124
+(1) Testing Set Accuracy: 61.569399999999995%
+
+(2) Training Set Accuracy: 97.58059999999999%     |     Examples Used: 248
+(2) Testing Set Accuracy: 69.4165%
+
+(3) Training Set Accuracy: 95.4301%     |     Examples Used: 372
+(3) Testing Set Accuracy: 71.6298%
+
+(4) Training Set Accuracy: 95.7916%     |     Examples Used: 496
+(4) Testing Set Accuracy: 79.8793%
+
